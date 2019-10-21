@@ -1,30 +1,21 @@
-# A Curriculum for Technological Skill Acquisition
-
-This repository was created to capture ideas related to Technological Skill Acquisition.
-
-The acquisition and practice of technological skills encompasses all technologies and environments.
-
-As knowledge, techniques, and understanding rapildy change -- so too should this repository.
-All feedback is welcomed and encouraged.
+# A Curriculum for Technologists
 
 The general pattern (need not be linear):
 
 * Learn the basic vocabulary.
   * Define key terms.
-  * Have a conversation using the terms.
   * "*What* are you learning?"
-* Observe the application of the technology.
+* Observe the examples.
   * Observe a successful performance.
-  * "What are the expressed behaviors of expertise?"
-* Attempt a successful performance.
-  * An exercise that incorporates immediate previous learning.
-  * "What is the exercise that will confirm skill acquisiton? Can components of the exercise be practiced?"
+  * Observe unsuccessful performance.
+  * "*Who* is using this? *How?*"
+* Perform.
+  * "What is the exercise that will confirm skill acquisition?"
+
 * Analysis:
-  * Consider the skill from its basic components.
   * "What is the system?" (Think deeply.)
 * Synthesis:
-  * Consider the skill applied in new ways.
-  * "How can this system change other systems?" (Think broadly.)
+  * "How can this system change other systems; or, otherwise?" (Think broadly.)
 * Evaluation:
   * "Is this good? Is this bad? What is good? What is bad?"
 
