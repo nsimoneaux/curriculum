@@ -6,12 +6,11 @@ The general pattern (need not be linear):
   * Define key terms.
   * "*What* are you learning?"
 * Observe the examples.
-  * Observe a successful performance.
+  * Observe successful performance.
   * Observe unsuccessful performance.
   * "*Who* is using this? *How?*"
 * Perform.
   * "What is the exercise that will confirm skill acquisition?"
-
 * Analysis:
   * "What is the system?" (Think deeply.)
 * Synthesis:
