@@ -32,13 +32,11 @@ The general flow of a given lesson is constructed with the following aims:
   * A high volume of failure will make for rapid acquisition of important data. *This is good.*
   * "What is the exercise that will confirm skill acquisiton? Can components of the exercise be practiced?"
 * Encourage the technlogist to analyze, synthesize, and evaluate.
-  * Analysis: Engaging with the new understanding, incorporating previous other knowledge.
-    * Asking students questions about the challenge.
-    * “Describe your process.”
-    * "Why are you successful? Why are you failing? Think deeply."
-  * Synthesis: Incorporating this new skill into practice.
-    * Asking the students to create a new challenge that might develop further learning (deeper, or more broad, or both).
-    * “How can you extend or refine this process?”
-    * "What can you do to be more successful, or fail differently? Think broadly."
-  * Evaluation: Observing practice and performance results for ideation of new success and failure.
-    * "Now that knowledge has been gained, '*What* are you learning?'"
+  * Analysis:
+    * Consider the skill from its basic components.
+    * "What is the system?" (Think deeply.)
+  * Synthesis:
+    * Consider the knowledge as applied to other knowledge.
+    * "How can this system change other systems?" (Think broadly.)
+  * Evaluation:
+    * "Is this good? Is this bad? What is good? What is bad?"
