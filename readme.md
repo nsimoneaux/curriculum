@@ -3,24 +3,16 @@
 This repository was created to capture ideas related to Technological Skill Acquisition.
 
 The first modules were developed for an audience of adult learners in a classroom-lab setting.
-
 Additionally, the lessons are developed to be delivered by an "expert" technologist to "learning" technologists.
-
 All technologists are learning. In group settings, expertise may be divided among members. Leadership is shared.
-
 Much expertise is available by way of the Internet, when not found locally.
 
 The initial focus is "Digital Literacy".
-
 The ability to use the Internet unlocks potential for infinite subsequent learning.
-
 The acquisition and practice of technological skills should grow to encompass all technologies and environments.
 
 As knowledge, techniques, and understanding rapildy change -- so too should this repository.
-
 All feedback is welcomed and encouraged.
-
-This framework provided by [Bloom’s Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).
 
 The general flow of a given lesson is constructed with the following aims:
 
@@ -46,3 +38,5 @@ The general flow of a given lesson is constructed with the following aims:
     * "How can this system change other systems?" (Think broadly.)
   * Evaluation:
     * "Is this good? Is this bad? What is good? What is bad?"
+
+This framework provided by [Bloom’s Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).
